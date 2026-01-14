@@ -1,4 +1,4 @@
-<h2 align="left">Hello World 👋! My name is Amine SAHHOUTI and I'm a Full Stack and Mobile developer, from Morocco, Let’s create something amazing together</h2>
+<h2 align="left">Hello World 👋! I'm a Full Stack and Mobile developer, from Morocco, Let’s create something amazing together</h2>
 
 ###
 
