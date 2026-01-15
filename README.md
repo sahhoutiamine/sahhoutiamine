@@ -22,17 +22,16 @@
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <div align="center">
-  <a href="https://github.com/sahhoutiamine">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahhoutiamine&show_icons=true&theme=dracula&hide_border=true" height="180" alt="Sahhou's Stats" />
-  </a>
-  <a href="https://github.com/sahhoutiamine">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahhoutiamine&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-  </a>
+
+[![Sahhou's Stats](https://github-readme-stats.vercel.app/api?username=sahhoutiamine&show_icons=true&theme=dracula&hide_border=true)](https://github.com/sahhoutiamine)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sahhoutiamine&layout=compact&theme=dracula&hide_border=true&langs_count=8)](https://github.com/sahhoutiamine)
+
 </div>
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=sahhoutiamine&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sahhoutiamine&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/sahhoutiamine)
+
 </div>
 
 <br/>
