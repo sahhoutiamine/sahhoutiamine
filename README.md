@@ -1,76 +1,49 @@
-<h2 align="left">Hello World 👋! I'm a Full Stack and Mobile developer, from Morocco, Let’s create something amazing together</h2>
+<div align="center">
+  <h1 align="center">Hi there 👋, I'm Sahhou Tiamine</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Creative+Coder;Open+Source+Enthusiast" alt="Typing SVG" />
+  
+  <br/>
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWw5OHRiZzFobWlzZ2NnM2lkYml2NmxudHEyNGtkNXJ5OWpkNjFoZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9Y1wF3wx1Dex8w9wxL/giphy.gif" width="300" alt="coding gif" />
+</div>
 
-###
+<br/>
+
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sahhoutiamine&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="140" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahhoutiamine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,kotlin,dart,c,cpp,cs" alt="Languages" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,firebase,mysql,sqlite,git,github,vscode,androidstudio,godot" alt="Tools & Frameworks" />
 </div>
 
-###
+<br/>
 
-<br clear="both">
+<h3 align="center">📊 GitHub Statistics</h3>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWw5OHRiZzFobWlzZ2NnM2lkYml2NmxudHEyNGtkNXJ5OWpkNjFoZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9Y1wF3wx1Dex8w9wxL/giphy.gif"  />
+  <a href="https://github.com/sahhoutiamine">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahhoutiamine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="Sahhou's Stats" />
+  </a>
+  <a href="https://github.com/sahhoutiamine">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahhoutiamine&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" height="180" alt="Top Languages" />
+  </a>
 </div>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=sahhoutiamine&theme=tokyonight&hide_border=true&bg_color=00000000&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
-###
+<br/>
+<br/>
 
-<br clear="both">
+<h3 align="center">🕹️ Contribution Graph</h3>
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahhoutiamine/sahhoutiamine/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahhoutiamine/sahhoutiamine/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sahhoutiamine/sahhoutiamine/output/pacman-contribution-graph.svg">
 </picture>
-
-###
+</div>
