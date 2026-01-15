@@ -43,8 +43,8 @@ def update_readme():
         with open('README.md', 'r', encoding='utf-8') as file:
             content = file.read()
         
-        # 2. Select randomly 5 quotes to cycle through in the typing animation
-        selected_quotes = random.sample(quotes, 5)
+        # 2. Use all quotes, shuffled
+        selected_quotes = random.sample(quotes, len(quotes))
         
         # 3. Prepare quotes for URL (URL separate lines with ;)
         # We need to escape each quote for URL inclusion
