@@ -23,17 +23,25 @@
 
 <div align="center">
   <a href="https://github.com/sahhoutiamine">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahhoutiamine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="Sahhou's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahhoutiamine&show_icons=true&theme=dracula&hide_border=true" height="180" alt="Sahhou's Stats" />
   </a>
   <a href="https://github.com/sahhoutiamine">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahhoutiamine&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahhoutiamine&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
   </a>
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=sahhoutiamine&theme=tokyonight&hide_border=true&bg_color=00000000&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sahhoutiamine&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
+
+<br/>
+
+<!-- QUOTE_START -->
+> 💡 **Random Dev Quote:**
+> 
+> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+<!-- QUOTE_END -->
 
 <br/>
 <br/>
