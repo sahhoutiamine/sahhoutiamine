@@ -40,7 +40,7 @@
 <!-- QUOTE_START -->
 <div align="center">
   <a href="https://github.com/sahhoutiamine">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=F8F8F2&background=00000000&center=true&vCenter=true&width=600&height=50&lines=Simplicity%20is%20the%20soul%20of%20efficiency.%20%E2%80%93%20Austin%20Freeman;Real%20programmers%20count%20from%200.;If%20at%20first%20you%20don%27t%20succeed%2C%20call%20it%20version%201.0.;The%20most%20disastrous%20thing%20that%20you%20can%20ever%20learn%20is%20your%20first%20programming%20language.%20%E2%80%93%20Alan%20Kay;Programming%20is%2010%25%20coding%20and%2090%25%20googling." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=10000&color=F8F8F2&background=00000000&center=true&vCenter=true&width=600&height=50&lines=Without%20requirements%20or%20design%2C%20programming%20is%20the%20art%20of%20adding%20bugs%20to%20an%20empty%20text%20file.%20%E2%80%93%20Louis%20Srygley;Java%20is%20to%20JavaScript%20what%20car%20is%20to%20Carpet.%20%E2%80%93%20Chris%20Heilmann;The%20most%20disastrous%20thing%20that%20you%20can%20ever%20learn%20is%20your%20first%20programming%20language.%20%E2%80%93%20Alan%20Kay;Don%27t%20comment%20bad%20code%20-%20rewrite%20it.%20%E2%80%93%20Brian%20Kernighan;Knock%2C%20knock.%20Who%E2%80%99s%20there%3F%20Recursion.%20Knock%2C%20knock.%20Who%E2%80%99s%20there%3F%20Recursion." alt="Typing SVG" />
   </a>
 </div>
 <!-- QUOTE_END -->

@@ -30,6 +30,21 @@ quotes = [
     "Are you a semicolon? Because you break everything.",
     "Code is like humor. When you have to explain it, it’s bad.",
     "Semicolons: The hide and seek champions of programming.",
+    "It works. Don’t touch it.",
+    "If debugging is the process of removing software bugs, then programming must be the process of adding bugs to an empty text file. – Edsger Dijkstra",
+    "If you think math is hard, try web design. – Trish Parr",
+    "Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates",
+    "The most disastrous thing that you can ever learn is your first programming language. – Alan Kay",
+    "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. – Linus Torvalds",
+    "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler",
+    "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it. – Patrick McKenzie",
+    "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away. – Antoine de Saint-Exupery",
+    "Don't comment bad code - rewrite it. – Brian Kernighan",
+    "Without requirements or design, programming is the art of adding bugs to an empty text file. – Louis Srygley",
+    "Before software can be reusable it first has to be usable. – Ralph Johnson",
+    "Optimism is an occupational hazard of programming: feedback is the treatment. - Kent Beck",
+    "Deleted code is debugged code. – Jeff Sickel",
+    "It’s not a bug – it’s an undocumented feature.",
 
     # --- Inspirational / Profound ---
     "Talk is cheap. Show me the code. – Linus Torvalds",
@@ -78,7 +93,7 @@ def update_readme():
         # width=600 to fit longer quotes
         typing_svg_url = (
             f"https://readme-typing-svg.herokuapp.com"
-            f"?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000"
+            f"?font=Fira+Code&weight=500&size=16&duration=4000&pause=10000"
             f"&color=F8F8F2&background=00000000&center=true&vCenter=true"
             f"&width=600&height=50&lines={lines_param}"
         )
