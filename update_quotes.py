@@ -93,9 +93,9 @@ def update_readme():
         # width=600 to fit longer quotes
         typing_svg_url = (
             f"https://readme-typing-svg.herokuapp.com"
-            f"?font=Fira+Code&weight=500&size=16&duration=4000&pause=10000"
+            f"?font=Fira+Code&weight=500&size=16&duration=4000&pause=6000"
             f"&color=F8F8F2&background=00000000&center=true&vCenter=true"
-            f"&width=600&height=50&lines={lines_param}"
+            f"&width=800&height=50&lines={lines_param}"
         )
 
         new_quote_section = (

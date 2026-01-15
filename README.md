@@ -40,7 +40,7 @@
 <!-- QUOTE_START -->
 <div align="center">
   <a href="https://github.com/sahhoutiamine">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=10000&color=F8F8F2&background=00000000&center=true&vCenter=true&width=600&height=50&lines=Without%20requirements%20or%20design%2C%20programming%20is%20the%20art%20of%20adding%20bugs%20to%20an%20empty%20text%20file.%20%E2%80%93%20Louis%20Srygley;Java%20is%20to%20JavaScript%20what%20car%20is%20to%20Carpet.%20%E2%80%93%20Chris%20Heilmann;The%20most%20disastrous%20thing%20that%20you%20can%20ever%20learn%20is%20your%20first%20programming%20language.%20%E2%80%93%20Alan%20Kay;Don%27t%20comment%20bad%20code%20-%20rewrite%20it.%20%E2%80%93%20Brian%20Kernighan;Knock%2C%20knock.%20Who%E2%80%99s%20there%3F%20Recursion.%20Knock%2C%20knock.%20Who%E2%80%99s%20there%3F%20Recursion." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=6000&color=F8F8F2&background=00000000&center=true&vCenter=true&width=800&height=50&lines=Perfection%20is%20achieved%20not%20when%20there%20is%20nothing%20more%20to%20add%2C%20but%20rather%20when%20there%20is%20nothing%20more%20to%20take%20away.%20%E2%80%93%20Antoine%20de%20Saint-Exupery;A%20SQL%20query%20walks%20into%20a%20bar%2C%20walks%20up%20to%20two%20tables%2C%20and%20asks...%20%27Can%20I%20join%20you%3F%27;Computers%20are%20fast%3B%20programmers%20keep%20it%20slow.;CSS%20is%20like%20a%20makeup%20kit%20for%20your%20website%2C%20but%20sometimes%20you%20accidentally%20draw%20the%20eyebrows%20on%20the%20chin.;Semicolons%3A%20The%20hide%20and%20seek%20champions%20of%20programming." alt="Typing SVG" />
   </a>
 </div>
 <!-- QUOTE_END -->
