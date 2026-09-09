@@ -9,7 +9,7 @@
 
 <br/>
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,kotlin,dart,c,cpp,cs" alt="Languages" />
@@ -19,7 +19,7 @@
 
 <br/>
 
-<h3 align="center">📊 GitHub Statistics</h3>
+<h3 align="center">GitHub Statistics</h3>
 
 <div align="center">
 
@@ -40,7 +40,7 @@
 <br/>
 <br/>
 
-<h3 align="center">🕹️ Contribution Graph</h3>
+<h3 align="center">Contribution Graph</h3>
 
 <div align="center">
 <picture>
